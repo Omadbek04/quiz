@@ -1,0 +1,11 @@
+.btn-my{
+    margin-top: 10px;
+}
+.succes{
+border-color: yellowgreen;
+background: green;
+}
+.danger{
+border-color: red;
+background-color: red;
+}
